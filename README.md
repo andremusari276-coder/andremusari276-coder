@@ -1,4 +1,4 @@
-# Halo, aku Andre Musari 👋
+# Halo, aku Andre 👋
 
 <div align="center">
   
@@ -12,8 +12,8 @@
 
 ```python
 andre = {
-    "nama"      : "Andre Musari",
-    "pendidikan": "Mahasiswa Sains Data - Semester 2",
+    "nama"      : "Andre",
+    "pendidikan": "Mahasiswa Sains Data - Institut Teknologi Sains Bandung - Semester 2",
     "fokus"     : ["Data Analysis", "Data Visualization", "Generative AI"],
     "tools"     : ["Python", "R", "Pandas", "Seaborn", "Matplotlib", "Jupyter"],
     "minat"     : ["Finance Analytics", "Machine Learning", "AI"],
@@ -92,7 +92,7 @@ Proyek yang akan segera hadir:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andremusari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andr0031)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/andremusari)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andremusari276@gmail.com)
 
