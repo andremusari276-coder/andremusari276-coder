@@ -1,5 +1,4 @@
-```markdown
-# Andre 
+# Andre
 
 Data Science Student focused on Data Analysis, Visualization, and AI-driven insights.
 
@@ -82,4 +81,3 @@ Key areas:
 ---
 
 > “Continuous learning and consistent practice build strong analytical thinking.”
-```
